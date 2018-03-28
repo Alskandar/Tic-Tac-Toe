@@ -1,5 +1,4 @@
 # Tic-Tac-Toe
-
 ##This piece of code allows two players to play a standard game of 3x3 Tic-Tac-Toe. Each time running the program activates a single game.  Choose 1 player to be Player 1 (X’s) and one to be Player 2 (O’s).  Player 1 will go first.  When it is your turn, select a space by entering a code from the following table:
 ##top left, left top         top middle, middle top         top right, right top
 ##middle left, left middle   middle middle, center          right middle, middle right
